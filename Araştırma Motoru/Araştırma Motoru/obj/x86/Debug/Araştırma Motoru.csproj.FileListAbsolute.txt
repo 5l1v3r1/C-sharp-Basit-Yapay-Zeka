@@ -1,0 +1,16 @@
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma_Motoru.Form1.resources
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma_Motoru.Properties.Resources.resources
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\bin\Debug\Araştırma Motoru.exe.config
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\bin\Debug\Araştırma Motoru.exe
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\bin\Debug\Araştırma Motoru.pdb
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\bin\Debug\GoogleSearchAPI.dll
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma Motoru.exe
+C:\Documents and Settings\_DangerOusMaN_\Desktop\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma Motoru.pdb
+F:\Projeler Source\Yapay Zeka\Araştırma Motoru\Araştırma Motoru\bin\Debug\Araştırma Motoru.exe.config
+F:\Projeler Source\Yapay Zeka\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma Motoru.exe
+F:\Projeler Source\Yapay Zeka\Araştırma Motoru\Araştırma Motoru\obj\x86\Debug\Araştırma Motoru.pdb
